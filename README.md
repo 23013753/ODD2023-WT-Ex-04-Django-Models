@@ -62,6 +62,8 @@ And  in the user_profile template page you can see the profile page of the user.
 
 
 # Output
-![Alt text](<Screenshot 2023-11-29 092744.png>)
-![Alt text](<Screenshot 2023-11-29 092920.png>)
+![Screenshot 2023-11-29 092744](https://github.com/23013753/ODD2023-WT-Ex-04-Django-Models/assets/145634121/51b172f0-c4ee-4d72-9a2c-351a2149d75a)
+![Screenshot 2023-11-29 092920](https://github.com/23013753/ODD2023-WT-Ex-04-Django-Models/assets/145634121/29da333a-6e98-4a26-9a4c-3de81a3cc3a7)
+
+
 
